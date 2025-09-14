@@ -17,3 +17,4 @@ target_compile_definitions(CppCommon INTERFACE
 
 #
 add_subdirectory(messagebox)
+add_subdirectory(window)
